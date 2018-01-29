@@ -1,5 +1,5 @@
 {
-    "name": "stratum-pool",
+    "name": "stratum-pool-Zero",
     "version": "0.1.6",
     "description": "High performance Stratum poolserver in Node.js",
     "keywords": [
@@ -12,27 +12,28 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/joshuayabut/node-stratum-pool",
+    "homepage": "https://github.com/sailor32/node-stratum-pool-zero",
     "bugs": {
-        "url": "https://github.com/joshuayabut/node-stratum-pool/issues"
+        "url": "https://github.com/sailor32/node-stratum-pool-zero/issues"
     },
     "license": "GPL-2.0",
-    "author": "Matthew Little",
+    "author": "Sailor32",
     "contributors": [
         "vekexasia",
-        "TheSeven"
+        "TheSeven",
+        "Matthew Little"
     ],
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/joshuayabut/node-stratum-pool.git"
+        "url": "https://github.com/sailor32/node-stratum-pool-zero.git"
     },
     "dependencies": {
-        "equihashverify": "git+https://github.com/joshyOcuk/equihashverify.git",
+        "equihashverify": "git+https://github.com/sailor32/equihashverify-zero.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
-        "merkle-bitcoin": "git+https://github.com/joshuayabut/merkle-bitcoin.git",
+        "merkle-bitcoin": "git+https://github.com/sailor32/merkle-bitcoin.git",
         "bitcoinjs-lib-zcash": "git+https://github.com/runn1ng/bitcoinjs-lib.git#zcash",
         "promise": "*"
     },
