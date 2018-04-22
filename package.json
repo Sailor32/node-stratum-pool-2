@@ -29,7 +29,7 @@
         "url": "https://github.com/sailor32/node-stratum-pool-zero.git"
     },
     "dependencies": {
-        "equihashverify": "git+https://github.com/sailor32/equihashverify-zero.git",
+        "equihashverify": "git+https://github.com/sailor32/equihashverify-192_7.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
